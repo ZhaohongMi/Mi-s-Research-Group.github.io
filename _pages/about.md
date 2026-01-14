@@ -27,3 +27,5 @@ We are an interdisciplinary research group focusing on [ion beam applications in
 📧 **Email**: mizhh@fudan.edu.cn  
 📞 **Phone**: +86-021-65643697  
 🌐 **Website**: https://Mi-s-Research-Group.github.io
+
+![Profile Photo](/images/profile.jpg){: .align-right .width-200}
