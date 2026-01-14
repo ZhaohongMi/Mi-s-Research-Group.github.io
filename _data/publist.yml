@@ -1,0 +1,25 @@
+- title: "Paper Title 1"
+  authors: "Author1, Author2, Zhang*"
+  journal: "Nature"
+  year: 2024
+  volume: "620"
+  pages: "123-130"
+  doi: "10.1038/s41586-024-xxxxx"
+  highlight: 1  # 1表示高亮显示
+  
+- title: "Paper Title 2"  
+  authors: "Author1, Zhang*, Author3"
+  journal: "Science"
+  year: 2023
+  volume: "379"
+  pages: "456-462"
+  doi: "10.1126/science.xxxxx"
+  highlight: 1
+  
+- title: "Paper Title 3"
+  authors: "Zhang*, Author1, Author2"
+  journal: "Physical Review Letters"
+  year: 2023
+  volume: "130"
+  pages: "123401"
+  doi: "10.1103/PhysRevLett.130.123401"
